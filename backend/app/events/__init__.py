@@ -1,17 +1,20 @@
 """
-Event system for OpenReplica
+Event system for OpenReplica matching OpenHands exactly
 """
-from .base import Event, EventType
-from .action import Action, ActionType
-from .observation import Observation, ObservationType
-from .serialization import EventSerializer
+from .action import Action
+from .observation import Observation
+from .event import Event, EventSource, EventStream, EventStreamSubscriber
+from .event_filter import EventFilter
+from .serialization.event import event_to_dict, event_from_dict
 
 __all__ = [
-    "Event",
-    "EventType", 
     "Action",
-    "ActionType",
-    "Observation",
-    "ObservationType",
-    "EventSerializer"
+    "Observation", 
+    "Event",
+    "EventSource",
+    "EventStream",
+    "EventStreamSubscriber",
+    "EventFilter",
+    "event_to_dict",
+    "event_from_dict"
 ]
