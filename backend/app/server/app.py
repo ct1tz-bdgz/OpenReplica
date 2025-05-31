@@ -23,6 +23,7 @@ from app.server.routes.manage_conversations import (
     app as manage_conversation_api_router,
 )
 from app.server.routes.mcp import mcp_server
+from app.server.routes.microagents import app as microagents_api_router
 from app.server.routes.public import app as public_api_router
 from app.server.routes.secrets import app as secrets_router
 from app.server.routes.security import app as security_api_router
@@ -52,6 +53,7 @@ app.include_router(security_api_router)
 app.include_router(feedback_api_router)
 app.include_router(conversation_api_router)
 app.include_router(manage_conversation_api_router)
+app.include_router(microagents_api_router)
 app.include_router(settings_router)
 app.include_router(secrets_router)
 app.include_router(git_api_router)
