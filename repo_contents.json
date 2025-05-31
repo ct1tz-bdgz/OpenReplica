@@ -1,0 +1,578 @@
+[
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "f8ab68afe0964ca6671abd67416db1cd59e0327f",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.devcontainer?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/.devcontainer",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/f8ab68afe0964ca6671abd67416db1cd59e0327f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.devcontainer?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/f8ab68afe0964ca6671abd67416db1cd59e0327f",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/.devcontainer"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "9b30efb1dbb5c1f9ab8406e5826273c28e82c924",
+    "size": 51,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/9b30efb1dbb5c1f9ab8406e5826273c28e82c924",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/9b30efb1dbb5c1f9ab8406e5826273c28e82c924",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "25de61b6a4777af01ddd3f6d8c87654a69d9efb1",
+    "size": 172,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/25de61b6a4777af01ddd3f6d8c87654a69d9efb1",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/25de61b6a4777af01ddd3f6d8c87654a69d9efb1",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "0a3e3b5cb8fe8385a0e635a232d2613cafe286a8",
+    "size": 200,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/0a3e3b5cb8fe8385a0e635a232d2613cafe286a8",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/0a3e3b5cb8fe8385a0e635a232d2613cafe286a8",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "99943444f244460e11df259a96f5807c93ec4b02",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.github?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/.github",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/99943444f244460e11df259a96f5807c93ec4b02",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/99943444f244460e11df259a96f5807c93ec4b02",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "ecda38b38284dd8122c5ecb3d16bf14a73f5e29b",
+    "size": 4584,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/ecda38b38284dd8122c5ecb3d16bf14a73f5e29b",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/ecda38b38284dd8122c5ecb3d16bf14a73f5e29b",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "2bd5a0a98a36cc08ada88b804d3be047e6aa5b8a",
+    "size": 3,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.nvmrc?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/.nvmrc",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/2bd5a0a98a36cc08ada88b804d3be047e6aa5b8a",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.nvmrc?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/2bd5a0a98a36cc08ada88b804d3be047e6aa5b8a",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/.nvmrc"
+    }
+  },
+  {
+    "name": ".openhands",
+    "path": ".openhands",
+    "sha": "ec3d27e8e717f3ed82dce57c7bbab57ff987c705",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.openhands?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/.openhands",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/ec3d27e8e717f3ed82dce57c7bbab57ff987c705",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.openhands?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/ec3d27e8e717f3ed82dce57c7bbab57ff987c705",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/.openhands"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "31fea5e9caf0b5130bc07a371448f8d91189f24a",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.vscode?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/31fea5e9caf0b5130bc07a371448f8d91189f24a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/31fea5e9caf0b5130bc07a371448f8d91189f24a",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "CITATION.cff",
+    "path": "CITATION.cff",
+    "sha": "9c23e891c577d14ee5b2289b776645be72d2bbef",
+    "size": 1409,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CITATION.cff?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/CITATION.cff",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/9c23e891c577d14ee5b2289b776645be72d2bbef",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/CITATION.cff",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CITATION.cff?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/9c23e891c577d14ee5b2289b776645be72d2bbef",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/CITATION.cff"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "8cf32bb41fe67b3b4e8b3c74840c8d59dbb6d6bf",
+    "size": 7667,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CODE_OF_CONDUCT.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/8cf32bb41fe67b3b4e8b3c74840c8d59dbb6d6bf",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CODE_OF_CONDUCT.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/8cf32bb41fe67b3b4e8b3c74840c8d59dbb6d6bf",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "COMMUNITY.md",
+    "path": "COMMUNITY.md",
+    "sha": "6edb4dff311ee0c79daa4e555189612d6ce486b0",
+    "size": 2633,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/COMMUNITY.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/COMMUNITY.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/6edb4dff311ee0c79daa4e555189612d6ce486b0",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/COMMUNITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/COMMUNITY.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/6edb4dff311ee0c79daa4e555189612d6ce486b0",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/COMMUNITY.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "2ffc73c9c65bb02ce6b31cbdb9212131fc94101a",
+    "size": 6995,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/2ffc73c9c65bb02ce6b31cbdb9212131fc94101a",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/2ffc73c9c65bb02ce6b31cbdb9212131fc94101a",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "CREDITS.md",
+    "path": "CREDITS.md",
+    "sha": "873742b7e0115f7d7e74cfdbe949499f3cc80473",
+    "size": 17393,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CREDITS.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/CREDITS.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/873742b7e0115f7d7e74cfdbe949499f3cc80473",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/CREDITS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/CREDITS.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/873742b7e0115f7d7e74cfdbe949499f3cc80473",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/CREDITS.md"
+    }
+  },
+  {
+    "name": "Development.md",
+    "path": "Development.md",
+    "sha": "b150db84aa370427e2b355b025347a4fa5b1277d",
+    "size": 7014,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/Development.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/Development.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/b150db84aa370427e2b355b025347a4fa5b1277d",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/Development.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/Development.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/b150db84aa370427e2b355b025347a4fa5b1277d",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/Development.md"
+    }
+  },
+  {
+    "name": "ISSUE_TRIAGE.md",
+    "path": "ISSUE_TRIAGE.md",
+    "sha": "d73e5c1377455b3cad7e744871c8c7e1fe1600d6",
+    "size": 1395,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/ISSUE_TRIAGE.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/ISSUE_TRIAGE.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/d73e5c1377455b3cad7e744871c8c7e1fe1600d6",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/ISSUE_TRIAGE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/ISSUE_TRIAGE.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/d73e5c1377455b3cad7e744871c8c7e1fe1600d6",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/ISSUE_TRIAGE.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "af1393b388a10f9a4bcdea4ecee8a89f227b975b",
+    "size": 1095,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/af1393b388a10f9a4bcdea4ecee8a89f227b975b",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/af1393b388a10f9a4bcdea4ecee8a89f227b975b",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "MANIFEST.in",
+    "path": "MANIFEST.in",
+    "sha": "8dd8203373b1dcd82347e7bf86ea735dee0a9b9b",
+    "size": 120,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/MANIFEST.in?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/MANIFEST.in",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/8dd8203373b1dcd82347e7bf86ea735dee0a9b9b",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/MANIFEST.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/MANIFEST.in?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/8dd8203373b1dcd82347e7bf86ea735dee0a9b9b",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/MANIFEST.in"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "705606f9dc8b6b23b243d44f48dd28c1aef02baa",
+    "size": 13799,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/Makefile?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/705606f9dc8b6b23b243d44f48dd28c1aef02baa",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/705606f9dc8b6b23b243d44f48dd28c1aef02baa",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "60c18e96292801e07201aa54a1c63beb78a553b1",
+    "size": 8752,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/README.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/60c18e96292801e07201aa54a1c63beb78a553b1",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/60c18e96292801e07201aa54a1c63beb78a553b1",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/README.md"
+    }
+  },
+  {
+    "name": "README_CN.md",
+    "path": "README_CN.md",
+    "sha": "df43b9c1739c45ab022fac56f3dccbce71fc8f9f",
+    "size": 8502,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/README_CN.md?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/README_CN.md",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/df43b9c1739c45ab022fac56f3dccbce71fc8f9f",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/README_CN.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/README_CN.md?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/df43b9c1739c45ab022fac56f3dccbce71fc8f9f",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/README_CN.md"
+    }
+  },
+  {
+    "name": "build.sh",
+    "path": "build.sh",
+    "sha": "599c63161a213cf16e90bb13552843f45ec83c6d",
+    "size": 44,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/build.sh?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/build.sh",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/599c63161a213cf16e90bb13552843f45ec83c6d",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/build.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/build.sh?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/599c63161a213cf16e90bb13552843f45ec83c6d",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/build.sh"
+    }
+  },
+  {
+    "name": "config.template.toml",
+    "path": "config.template.toml",
+    "sha": "30bf1cd5baa45322cdabbabde35f04f68ebf4316",
+    "size": 13001,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/config.template.toml?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/config.template.toml",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/30bf1cd5baa45322cdabbabde35f04f68ebf4316",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/config.template.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/config.template.toml?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/30bf1cd5baa45322cdabbabde35f04f68ebf4316",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/config.template.toml"
+    }
+  },
+  {
+    "name": "containers",
+    "path": "containers",
+    "sha": "6ade7b25966e41d99bccaed8f87b0af5cb956a87",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/containers?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/containers",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/6ade7b25966e41d99bccaed8f87b0af5cb956a87",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/containers?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/6ade7b25966e41d99bccaed8f87b0af5cb956a87",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/containers"
+    }
+  },
+  {
+    "name": "dev_config",
+    "path": "dev_config",
+    "sha": "21393e64686e39ffacdd313f219affde2e6769fb",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/dev_config?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/dev_config",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/21393e64686e39ffacdd313f219affde2e6769fb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/dev_config?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/21393e64686e39ffacdd313f219affde2e6769fb",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/dev_config"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "24530b0edd1d6b0a05a41cd4f5c718d7cdca973f",
+    "size": 899,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/docker-compose.yml?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/24530b0edd1d6b0a05a41cd4f5c718d7cdca973f",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/docker-compose.yml?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/24530b0edd1d6b0a05a41cd4f5c718d7cdca973f",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "94c4e2298865d152490bc53dbb15cc3f6121911c",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/docs?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/docs",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/94c4e2298865d152490bc53dbb15cc3f6121911c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/94c4e2298865d152490bc53dbb15cc3f6121911c",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/docs"
+    }
+  },
+  {
+    "name": "evaluation",
+    "path": "evaluation",
+    "sha": "a098ce857203d1a380af46c4e712d84b71134b4b",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/evaluation?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/evaluation",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/a098ce857203d1a380af46c4e712d84b71134b4b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/evaluation?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/a098ce857203d1a380af46c4e712d84b71134b4b",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/evaluation"
+    }
+  },
+  {
+    "name": "frontend",
+    "path": "frontend",
+    "sha": "c90ee72c3cf3fae19fc72e8e15658d8ed58b3371",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/frontend?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/frontend",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/c90ee72c3cf3fae19fc72e8e15658d8ed58b3371",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/frontend?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/c90ee72c3cf3fae19fc72e8e15658d8ed58b3371",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/frontend"
+    }
+  },
+  {
+    "name": "microagents",
+    "path": "microagents",
+    "sha": "9c54da558f7661862de9b1a10343f364b14bf12a",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/microagents?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/microagents",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/9c54da558f7661862de9b1a10343f364b14bf12a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/microagents?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/9c54da558f7661862de9b1a10343f364b14bf12a",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/microagents"
+    }
+  },
+  {
+    "name": "openhands",
+    "path": "openhands",
+    "sha": "fab8a119c6c73263b36abac492322cd916e9b1e4",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/openhands?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/openhands",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/fab8a119c6c73263b36abac492322cd916e9b1e4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/openhands?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/fab8a119c6c73263b36abac492322cd916e9b1e4",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/openhands"
+    }
+  },
+  {
+    "name": "poetry.lock",
+    "path": "poetry.lock",
+    "sha": "457a534b4343d25ad6c52c15d4b4754a56c32cbc",
+    "size": 950959,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/poetry.lock?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/poetry.lock",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/457a534b4343d25ad6c52c15d4b4754a56c32cbc",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/poetry.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/poetry.lock?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/457a534b4343d25ad6c52c15d4b4754a56c32cbc",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/poetry.lock"
+    }
+  },
+  {
+    "name": "pydoc-markdown.yml",
+    "path": "pydoc-markdown.yml",
+    "sha": "74f4260345e09fa568854d8aa938cd73e2a5e0ca",
+    "size": 304,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/pydoc-markdown.yml?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/pydoc-markdown.yml",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/74f4260345e09fa568854d8aa938cd73e2a5e0ca",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/pydoc-markdown.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/pydoc-markdown.yml?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/74f4260345e09fa568854d8aa938cd73e2a5e0ca",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/pydoc-markdown.yml"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "9fa939087e55eb7ff13e416b58dcd838fbc3d2d4",
+    "size": 4273,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/pyproject.toml?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/pyproject.toml",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/9fa939087e55eb7ff13e416b58dcd838fbc3d2d4",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/9fa939087e55eb7ff13e416b58dcd838fbc3d2d4",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/pyproject.toml"
+    }
+  },
+  {
+    "name": "pytest.ini",
+    "path": "pytest.ini",
+    "sha": "7a222b2d34944621d1bdb29380564f9df5bb07f1",
+    "size": 80,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/pytest.ini?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/blob/main/pytest.ini",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/7a222b2d34944621d1bdb29380564f9df5bb07f1",
+    "download_url": "https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/pytest.ini",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/pytest.ini?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/blobs/7a222b2d34944621d1bdb29380564f9df5bb07f1",
+      "html": "https://github.com/All-Hands-AI/OpenHands/blob/main/pytest.ini"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "782a30bc9e529cd403b3febcc7314dee04e9d259",
+    "size": 0,
+    "url": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/tests?ref=main",
+    "html_url": "https://github.com/All-Hands-AI/OpenHands/tree/main/tests",
+    "git_url": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/782a30bc9e529cd403b3febcc7314dee04e9d259",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/All-Hands-AI/OpenHands/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/All-Hands-AI/OpenHands/git/trees/782a30bc9e529cd403b3febcc7314dee04e9d259",
+      "html": "https://github.com/All-Hands-AI/OpenHands/tree/main/tests"
+    }
+  }
+]
